@@ -1,2 +1,2 @@
 # kubepave-tenant-requests
-GitOps entry point for tenant requests in Kubepave.
+Submitted requests are validated and transformed into tenant configurations deployed via Argo CD.
