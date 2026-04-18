@@ -1,6 +1,6 @@
 # kubepave-tenant-requests
 
-⚠️ **This file is automatically managed by Crossplane. Do not edit manually.**
+⚠️ **This repository is managed by Crossplane. Do not edit manually.**
 
 This repository is the GitOps entry point for submitting tenant requests in Kubepave.
 
