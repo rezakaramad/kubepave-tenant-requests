@@ -7,7 +7,6 @@ spec:
   displayName: Payment
   owner:
     team: payment
-  environmentPrefix: wl
   argocd:
     syncRepos:
       - https://github.com/rezakaramad/kubepave.git
