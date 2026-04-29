@@ -1,5 +1,5 @@
 apiVersion: idp.rezakara.demo/v1alpha1
-kind: TenantRequest
+kind: Tenant
 metadata:
   name: payment
 spec:
@@ -7,6 +7,4 @@ spec:
   displayName: Payment
   owner:
     team: payment
-  argocd:
-    syncRepos:
-      - https://github.com/rezakaramad/kubepave.git
+  argocd: {}
