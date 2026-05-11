@@ -1,5 +1,5 @@
-apiVersion: idp.rezakara.demo/v1alpha1
-kind: Tenant
+apiVersion: idp.rezakara.demo/v1beta1
+kind: XTenant
 metadata:
   name: payment
 spec:
