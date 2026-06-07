@@ -5,7 +5,5 @@ metadata:
 spec:
   dnsName: pay
   displayName: Payment
-  owner:
-    team: payment
   argocd: {}
   teamId: "44"
