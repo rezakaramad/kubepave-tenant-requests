@@ -8,4 +8,4 @@ spec:
   owner:
     team: payment
   argocd: {}
-  teamId: 44
+  teamId: "44"
