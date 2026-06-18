@@ -1,9 +1,9 @@
-# apiVersion: idp.rezakara.demo/v1beta1
-# kind: XTenant
-# metadata:
-#   name: payment
-# spec:
-#   dnsName: pay
-#   displayName: Payment
-#   argocd: {}
-#   teamId: "44"
+apiVersion: idp.rezakara.demo/v1beta1
+kind: XTenant
+metadata:
+  name: payment
+spec:
+  dnsName: pay
+  displayName: Payment
+  argocd: {}
+  teamId: "44"
